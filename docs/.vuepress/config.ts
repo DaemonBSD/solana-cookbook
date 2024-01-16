@@ -110,6 +110,7 @@ export default defineUserConfig<DefaultThemeOptions>({
               children: [
                 "/integrations",
                 "/integrations/serum.md",
+                "/integrations/openbook.md",
                 "/integrations/pyth.md",
                 "/integrations/switchboard.md",
                 "/integrations/mango.md",
